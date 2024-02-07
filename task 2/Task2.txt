@@ -1,0 +1,26 @@
+TASK 2 (Conditional Statements and looping)
+DEADLINE : Tuesday 12:00 PM
+
+
+1) Ask the user to enter the values of a 1 , a 2 , b 1 , b 2 , c 1 , and c 2 and
+find whether the lines are parallel, or if they overlap or intersect.
+
+
+2) Ask the user to enter a three digit number. Find the number obtained by reversing the order of the digits. Find the sum of the digits. Finally, find
+if they are a palindrome
+
+
+3) Ask the user to enter his salary and calculate the TA & DA: Travelling Allowance & Dearness Allowance, which is 10% of the salary;
+the HRA: House Rent Allownace, which is 20% of the salary and the gross income, which is the sum total of the salary, TADA and the HRA.
+
+
+4) WAP to a pattern for n
+     1
+   2  2
+  3  3  3
+   2  2
+     1
+
+
+
+5) Ask the user to enter two numbers and find the LCM and HCF ?

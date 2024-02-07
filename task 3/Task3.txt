@@ -1,0 +1,45 @@
+Task 3(List Tuples Dictionaries)
+Date : 9nd September 2020
+Deadline : Next meeting(11th September)
+Submission Link: https://forms.gle/BRox4UDN3edT6xtq5 
+
+1) Print the following pattern taking the number of rows as input from the user
+	
+
+       Input : 4
+
+	*
+	* *
+	* * *
+	* * * *
+
+2)Print the following pattern taking the number of rows as input from the user(mirror image of Z)
+	Input: 5
+******
+ *
+  *
+   *
+*****
+
+
+
+
+3) Given a two Python list. Iterate both lists simultaneously such that list1 should display item in original order and list2 in reverse order
+
+
+4) Write a program to remove empty strings from the list of strings.
+
+
+5)Write a program to reverse a tuple
+
+
+6) Write a program to copy element 44 and 55 from the following tuple into a new tuple
+tuple1 = (98, 67, 33, 44, 55, 78)
+
+7) WAP and create a dictionary to hold information about pets. Each key is an what kind of animal it is, and each value is the pet�s name
+
+8)  WAP to find the highest 3 values in a dictionary.
+
+
+
+

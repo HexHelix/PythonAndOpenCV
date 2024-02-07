@@ -1,0 +1,13 @@
+# 3) Ask the user to enter his salary and calculate the TA & DA: Travelling Allowance & Dearness Allowance, which is 10% of the salary;
+# the HRA: House Rent Allownace, which is 20% of the salary and the gross income, which is the sum total of the salary, TADA and the HRA.
+
+try:
+    salary = int(input('Enter your salary: '))
+
+    TADA = 0.1 * salary
+    HRA = 0.2 * salary
+    T_salary = TADA + HRA + salary
+
+    print("Travelling Allowance & Dearness Allowance = ", TADA,"\nHouse Rent Allownace = ",HRA,"\nGross income = ", T_salary)
+except:
+ 

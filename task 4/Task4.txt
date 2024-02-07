@@ -1,0 +1,32 @@
+Coding Training Task 4(Functioncs,List,Tuples,Dict)
+Date: 13th September 2020
+Deadline 15th Sep 2020
+Submission Link: https://forms.gle/LE17Co46wHKkmdGD6
+
+Implement the following programs by creating a seperate function.
+
+1) Write a program to input a list from the user and output a list of unique elemtents.
+
+2)Write a program to input a sentence (a string without any special characters other than whitespace)
+and generate a list with the words in the input sentence as its elements.
+	Input: Hello there I am XYZ
+	Output : [‘Hello’,’there’,’I’, ’am’, ’XYZ’]
+
+
+
+3) Ask the user to enter 4 points and arrange them in order of their distances from the origin. 
+
+
+4)Write a function which takes a list of integers and no. of rotations as input and returns a list rotated in anticlockwise order.
+example: 
+input: [1,2,3,4,5], 1 rotation
+output: [2,3,4,5,1]
+example 2:
+input: [1,2,3,4,5], 2 rotations
+output: [3,4,5,1,2]
+
+5)write a program to calculate the distance between two given points (x1,y1) and (x2,y2) using lambda functions
+
+6)Study about the properties of lists, tuples and dictionaries.
+
+Note: All the codes have to be generic and should work for any given input(Take each and every value as an input from the user).
